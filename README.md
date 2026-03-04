@@ -90,7 +90,7 @@ All three proofs are generated on-device. No heavy computation. No centralized o
 
 ```bash
 # Clone the Star
-git clone https://github.com/your-username/alcor.git
+git clone https://github.com/astrophelverse/alcor-protocol.git
 
 # Enter the Gravity Well
 cd alcor
