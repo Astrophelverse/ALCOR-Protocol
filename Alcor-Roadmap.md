@@ -323,7 +323,7 @@ AI Companies → USD payment → Alcor API → Clean JSON data delivery
 | 9 | Axum backend pt.2 | Private delivery pipeline |
 | 10 | Leptos frontend pt.1 | PWA shell + bounty list |
 | 11 | Leptos frontend pt.2 | Voice recorder + payments |
-| 12 | Launch + dataset | 500 samples collected |
+| 12 | Launch + dataset | samples collected |
 
 ---
 
